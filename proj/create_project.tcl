@@ -15,7 +15,7 @@ cd $dest_dir
 
 
 set part "xc7k325tffg900-2"
-set brd_part "digilentinc.com:genesys2:part0:1.1"
+set brd_part "digilentinc.com:sword:part0:1.0"
 
 # Set the reference directory for source file relative paths (by default the value is script directory path)
 set origin_dir ".."
